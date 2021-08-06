@@ -1,0 +1,1 @@
+<view class="profile-list data-v-135d509f"><block wx:for="{{otherInfo}}" wx:for-item="item" wx:for-index="index" wx:key="index"><view class="list-item data-v-135d509f"><image src="{{item.img}}" mode class="data-v-135d509f"></image><text class="data-v-135d509f">{{item.title}}</text></view></block></view>

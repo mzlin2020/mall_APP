@@ -1,0 +1,36 @@
+
+.headInfo.data-v-75790e7c{
+	margin: 40rpx 20rpx;
+	font-size: 34rpx;
+	font-weight: 600;
+	color: #333;
+}
+.userInfo>image.data-v-75790e7c{
+	width: 100rpx;
+	height: 100rpx;
+	vertical-align: middle;
+	border-radius: 50%;
+	margin: 0 15rpx;
+}
+.userInfo.data-v-75790e7c{
+	color: #222;
+	margin-bottom: 20rpx;
+}
+.content.data-v-75790e7c,.desc.data-v-75790e7c{
+	padding: 10rpx 30rpx;
+	text-align: justify;
+}
+.desc.data-v-75790e7c{
+	color: #808080;
+	font-size: 26rpx;
+}
+.time.data-v-75790e7c{
+	margin-right: 20rpx;
+}
+.commentMore.data-v-75790e7c{
+	margin: 30rpx 0;
+	text-align: center;
+	padding-bottom: 20rpx;
+	box-shadow: 0 5px 3px rgba(100,100,100,0.08);
+}
+

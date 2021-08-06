@@ -1,0 +1,81 @@
+{
+	"pages": [ //pages数组中第一项表示应用启动页，参考：https://uniapp.dcloud.io/collocation/pages
+		// 首页
+		{
+			"path": "pages/index/index",
+			"style": {
+			}
+		},
+		// 资讯
+		{
+			"path":"pages/category/category",
+			"style":{
+				"navigationBarTitleText":"分类"
+			}
+		},
+		// 购物车
+		{
+			"path":"pages/cart/cart",
+			"style":{
+				"navigationBarTitleText":"购物车"
+			}
+		},
+		// 用户
+		{
+			"path":"pages/profile/profile",
+			"style":{
+				"navigationBarTitleText":"个人信息"
+			}
+			
+		},
+		// 详情页
+		{
+			"path":"pages/detail/Detail",
+			"style":{
+				"navigationBarTitleText":"商品详情"
+			}
+		}
+
+    ],
+	"globalStyle": {
+		"navigationBarTextStyle": "white",
+		"navigationBarTitleText": "购物街",
+		"navigationBarBackgroundColor": "#ff8198",
+		"backgroundColor": "#F8F8F8"
+	},
+	"tabBar":{
+		"list":[
+			// 首页
+			{
+				"text":"首页", //文本
+				"pagePath":"pages/index/index", //路径
+				"iconPath":"static/tabbar/home.png", //未选中时图标
+				"selectedIconPath":"static/tabbar/home_active.png" //选中时的图标
+			},
+			// 分类
+			{
+				"text":"分类",
+				"pagePath":"pages/category/category",
+				"iconPath":"static/tabbar/category.png",
+				"selectedIconPath":"static/tabbar/category_active.png"
+			},
+			// 购物车
+			{
+				"text":"购物车",
+				"pagePath":"pages/cart/cart",
+				"iconPath":"static/tabbar/cart.png",
+				"selectedIconPath":"static/tabbar/mall_active.png"
+			},
+			// 用户
+			{
+				"text":"我的",
+				"pagePath":"pages/profile/profile",
+				"iconPath":"static/tabbar/profile.png",
+				"selectedIconPath":"static/tabbar/profile_active.png"
+			}
+		],
+		// tabbar的其他样式
+		"selectedColor":"#E93B3D",
+		"color":"#8B8B8B"
+	}
+}

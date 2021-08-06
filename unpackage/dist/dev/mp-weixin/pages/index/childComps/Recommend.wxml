@@ -1,0 +1,1 @@
+<view class="recommend data-v-89064baa"><block wx:for="{{recommendInfo}}" wx:for-item="item" wx:for-index="__i0__" wx:key="index"><view class="recommend-item data-v-89064baa"><image class="recommendImg data-v-89064baa" src="{{item.image}}" mode></image><view class="text data-v-89064baa">{{''+item.title+''}}</view></view></block></view>

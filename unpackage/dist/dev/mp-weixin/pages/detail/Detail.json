@@ -1,0 +1,13 @@
+{
+  "navigationBarTitleText": "商品详情",
+  "usingComponents": {
+    "detail-swiper": "/pages/detail/childComps/DetailSwiper",
+    "detail-good-base": "/pages/detail/childComps/DetailGoodBase",
+    "detail-shop": "/pages/detail/childComps/DetailShop",
+    "detail-goods-info": "/pages/detail/childComps/DetailGoodsInfo",
+    "detail-comment": "/pages/detail/childComps/DetailComment",
+    "detail-goods-list": "/pages/detail/childComps/DetailGoodsList",
+    "detail-bottom-bar": "/pages/detail/childComps/DetailBottomBar",
+    "back-top": "/components/BackTop"
+  }
+}

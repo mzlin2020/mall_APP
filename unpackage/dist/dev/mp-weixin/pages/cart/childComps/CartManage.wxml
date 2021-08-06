@@ -1,0 +1,1 @@
+<view class="manage data-v-d87b2694"><view class="choiceBtn data-v-d87b2694"><check-button vue-id="36e8a9e0-1" class="data-v-d87b2694" bind:__l="__l"></check-button></view><view class="choicetext data-v-d87b2694"><text class="data-v-d87b2694">全选</text></view><view class="deleteGoods data-v-d87b2694"><button size="mini" class="data-v-d87b2694">删除</button></view></view>

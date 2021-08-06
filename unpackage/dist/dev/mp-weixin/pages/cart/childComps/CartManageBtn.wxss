@@ -1,0 +1,13 @@
+
+.manage-btn.data-v-0c81e3f6{
+	display: -webkit-box;
+	display: -webkit-flex;
+	display: flex;
+	-webkit-box-pack: justify;
+	-webkit-justify-content: space-between;
+	        justify-content: space-between;
+	background-color: #eee;
+	color: #333;
+	padding: 15rpx 10rpx;
+}
+

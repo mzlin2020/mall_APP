@@ -1,0 +1,67 @@
+
+.bottom-bar.data-v-31b1bc45{
+	display: -webkit-box;
+	display: -webkit-flex;
+	display: flex;
+	position: fixed;
+	bottom: 0;
+	right: 0;
+	left: 0;
+	background: #fff;
+	text-align:center;
+}
+.service.data-v-31b1bc45,.store.data-v-31b1bc45,.collect.data-v-31b1bc45{
+	-webkit-box-flex: 1;
+	-webkit-flex-grow: 1;
+	        flex-grow: 1;
+}
+.addCart.data-v-31b1bc45{
+	-webkit-box-flex: 1.5;
+	-webkit-flex-grow: 1.5;
+	        flex-grow: 1.5;
+}
+.purchase.data-v-31b1bc45{
+	-webkit-box-flex: 1.2;
+	-webkit-flex-grow: 1.2;
+	        flex-grow: 1.2;
+}
+.service-img>image.data-v-31b1bc45,.store-img>image.data-v-31b1bc45,.collect-img>image.data-v-31b1bc45{
+	width: 52rpx;
+	height: 52rpx;
+}
+.service-img.data-v-31b1bc45,.store-img.data-v-31b1bc45,.collect-img.data-v-31b1bc45{
+	height: 52rpx
+}
+.service>text.data-v-31b1bc45,.store>text.data-v-31b1bc45,.collect>text.data-v-31b1bc45{
+	font-size: 28rpx;
+}
+.addCart.data-v-31b1bc45{
+	background-color:#FFE003;
+	/* 垂直居中对齐 */
+	display: -webkit-box;
+	display: -webkit-flex;
+	display: flex;
+	-webkit-box-align: center;
+	-webkit-align-items: center;
+	        align-items: center;
+	-webkit-box-pack: center;
+	-webkit-justify-content: center;
+	        justify-content: center;
+	font-size: 36rpx;
+}
+.purchase.data-v-31b1bc45{
+	background-color: #FF779A;
+	color:white;
+	/* 垂直居中对齐 */
+	display: -webkit-box;
+	display: -webkit-flex;
+	display: flex;
+	-webkit-box-align: center;
+	-webkit-align-items: center;
+	        align-items: center;
+	-webkit-box-pack: center;
+	-webkit-justify-content: center;
+	        justify-content: center;
+	font-size: 36rpx;
+}
+

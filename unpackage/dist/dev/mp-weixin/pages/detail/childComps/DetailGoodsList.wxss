@@ -1,0 +1,71 @@
+
+.headInfo.data-v-6fb89d1e{
+	text-align: center;
+	background-color: #eee;
+	padding: 38rpx 0;
+	color:#ff5777;
+}
+.headtitle.data-v-6fb89d1e{
+	font-size: 34rpx;
+	padding: 0 8rpx;
+}
+.detail-goods-list.data-v-6fb89d1e{
+	display: -webkit-box;
+	display: -webkit-flex;
+	display: flex;
+	-webkit-flex-wrap: wrap;
+	        flex-wrap: wrap;
+	-webkit-box-pack:space-evenly;
+	-webkit-justify-content:space-evenly;
+	        justify-content:space-evenly;
+	background-color: #eee;
+}
+.goods-item.data-v-6fb89d1e{
+	
+	background-color: #fff;
+	margin-bottom: 30rpx;
+	border-radius: 10rpx;
+	box-shadow: 0 2px 1px rgba(100,100,100,0.08);
+}
+.img.data-v-6fb89d1e,.title.data-v-6fb89d1e,.price.data-v-6fb89d1e{
+	width: 350rpx;
+}
+.good-img.data-v-6fb89d1e{
+	width: 100%;
+	border-radius: 10rpx;
+}
+.title.data-v-6fb89d1e{
+    overflow: hidden;
+    text-overflow: ellipsis; /*这三行代码效果：单行文本溢出显示省略号*/
+    white-space: nowrap;	
+	font-size: 30rpx;
+	margin-bottom: 30rpx;
+}
+.price.data-v-6fb89d1e{
+	margin-bottom: 18rpx;
+}
+.monkey.data-v-6fb89d1e{
+	font-size: 20rpx;
+}
+.monkeyNum.data-v-6fb89d1e{
+	font-size: 34rpx;
+	font-size: 500;
+	margin-right: 8rpx;
+}
+.monkey.data-v-6fb89d1e,.monkeyNum.data-v-6fb89d1e{
+	color:#ff5777;
+}
+.cfav.data-v-6fb89d1e{
+	color:#808080;
+	font-size: 20rpx;
+}
+.over.data-v-6fb89d1e{
+	padding-top: 20rpx;
+	padding-bottom: 120rpx;
+	text-align: center;
+}
+.over>text.data-v-6fb89d1e{
+	font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+	letter-spacing: 5rpx;
+}
+

@@ -1,0 +1,44 @@
+
+.goods-list.data-v-69cd676e{
+		display: -webkit-box;
+		display: -webkit-flex;
+		display: flex;
+		-webkit-flex-wrap: wrap;
+		        flex-wrap: wrap;
+		-webkit-box-pack:space-evenly;
+		-webkit-justify-content:space-evenly;
+		        justify-content:space-evenly;
+}
+.goods-item.data-v-69cd676e{
+		margin-bottom: 30rpx;
+		text-align: center;
+}
+.img.data-v-69cd676e,.title.data-v-69cd676e,.descripe.data-v-69cd676e{
+		width: 350rpx;
+}
+.title.data-v-69cd676e{
+        overflow: hidden;
+        text-overflow: ellipsis; /*这三行代码效果：单行文本溢出显示省略号*/
+        white-space: nowrap;
+		font-size: 30rpx;
+}
+.descripe.data-v-69cd676e{
+		color:#ff5777;
+}
+.good-img.data-v-69cd676e{
+		width: 100%;
+		border-radius: 3%;
+}
+.collect.data-v-69cd676e{
+		display: inline;
+		padding-left: 30rpx;
+}
+.collect-img.data-v-69cd676e{
+		width: 25rpx;
+		height: 25rpx;
+		padding-right: 10rpx;
+}
+.collect-text.data-v-69cd676e{
+		color: #666666;
+}
+

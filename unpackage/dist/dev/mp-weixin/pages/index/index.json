@@ -1,0 +1,10 @@
+{
+  "usingComponents": {
+    "swiper": "/components/Swiper",
+    "recommend": "/pages/index/childComps/Recommend",
+    "feature-view": "/pages/index/childComps/FeatureView",
+    "tab-control": "/components/TabControl",
+    "goods-list": "/components/GoodsList",
+    "back-top": "/components/BackTop"
+  }
+}

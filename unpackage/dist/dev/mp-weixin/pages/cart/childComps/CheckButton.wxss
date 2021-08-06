@@ -1,0 +1,14 @@
+
+.check-button.data-v-5066c1ce{
+    border-radius: 50%;
+    border: 1rpx #bbb solid;
+}
+.active.data-v-5066c1ce{
+    border: rpx #ff8198 solid;
+    background-color: #ff8198;
+}
+.check-button image.data-v-5066c1ce{
+    width: 32rpx;
+    height: 32rpx;
+}
+

@@ -1,0 +1,63 @@
+
+.title.data-v-2851ac61{
+	padding: 15rpx 10rpx;
+	font-size: 30rpx;
+}
+/* 价格 */
+.lowNowPrice.data-v-2851ac61{
+	font-size: 40rpx;
+	color: #ff5777;
+}
+.oldPrice.data-v-2851ac61{
+	text-decoration: line-through; /*定义穿过文本下的一条线*/
+	color: #999;
+	padding-left: 10rpx;
+	font-size: 24rpx;
+}
+.discountDesc.data-v-2851ac61{
+	color: white;
+	font-size: 22rpx;
+	background-color:#ff5777;
+	border-radius: 8rpx;
+	padding: 3rpx 8rpx;
+	position: relative;
+	top: -10rpx;
+	margin-left: 10rpx;
+}
+/* 销量收藏 */
+.columns.data-v-2851ac61{
+	display: -webkit-box;
+	display: -webkit-flex;
+	display: flex;
+	font-size: 28rpx;
+	color: #999;
+	margin-top: 20rpx;
+	-webkit-box-pack: justify;
+	-webkit-justify-content: space-between;
+	        justify-content: space-between;
+	padding: 20rpx 5rpx 10rpx 5rpx;
+	box-shadow: 0 2px 1px rgba(100,100,100,0.08);
+	margin-bottom: 8rpx;
+}
+/* 其他信息 */
+.other-info.data-v-2851ac61{
+	display: -webkit-box;
+	display: -webkit-flex;
+	display: flex;
+	-webkit-box-pack: justify;
+	-webkit-justify-content: space-between;
+	        justify-content: space-between;
+	box-shadow: 0 3px 1px rgba(100,100,100,0.08);
+	padding: 10rpx 0;
+}
+.left-services>image.data-v-2851ac61,.right-services>image.data-v-2851ac61{
+	width: 35rpx;
+	height: 35rpx;
+	vertical-align: middle;
+}
+.left-services>text.data-v-2851ac61,.right-services>text.data-v-2851ac61{
+	font-size: 28rpx;
+	color: #555;
+	padding: 0 4rpx;
+}
+

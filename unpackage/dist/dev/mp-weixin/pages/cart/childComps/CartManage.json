@@ -1,0 +1,6 @@
+{
+  "usingComponents": {
+    "check-button": "/pages/cart/childComps/CheckButton"
+  },
+  "component": true
+}

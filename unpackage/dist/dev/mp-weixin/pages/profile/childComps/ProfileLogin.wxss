@@ -1,0 +1,43 @@
+
+.profile-login.data-v-3d68e638{
+	display: -webkit-box;
+	display: -webkit-flex;
+	display: flex;
+	background-color:#ff8198;
+	color: #fff;
+	-webkit-box-align: center;
+	-webkit-align-items: center;
+	        align-items: center;
+	padding: 20rpx 0;
+}
+.login-img.data-v-3d68e638{
+	border-radius: 50%;	
+	margin-left: 20rpx;
+}
+.user-info.data-v-3d68e638{
+	margin-left: 40rpx;
+}
+.login-text.data-v-3d68e638{
+	font-size: 34rpx;
+}
+.phone.data-v-3d68e638{
+	margin-top: 10rpx;
+}
+.arrow.data-v-3d68e638{
+	margin-left: 200rpx;
+}
+.login-img>image.data-v-3d68e638{
+	width: 150rpx;
+	height: 150rpx;
+}
+.phone>image.data-v-3d68e638{
+	width: 30rpx;
+	height: 30rpx;
+	vertical-align: middle;
+	padding-right: 5rpx;
+}
+.arrow>image.data-v-3d68e638{
+	width: 40rpx;
+	height: 40rpx;
+}
+

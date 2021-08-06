@@ -1,0 +1,8 @@
+{
+  "navigationBarTitleText": "个人信息",
+  "usingComponents": {
+    "profile-login": "/pages/profile/childComps/ProfileLogin",
+    "profile-assets": "/pages/profile/childComps/ProfileAssets",
+    "profile-list": "/pages/profile/childComps/ProfileList"
+  }
+}

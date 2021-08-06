@@ -1,0 +1,19 @@
+
+.profile-list.data-v-135d509f{
+	margin: 40rpx 0 0 30rpx;
+}
+.list-item.data-v-135d509f{
+	padding-bottom: 20rpx;
+	margin-bottom: 20rpx;
+	box-shadow: 0 4rpx 2rpx rgba(100,100,100,0.1);
+}
+.list-item>image.data-v-135d509f{
+	width: 40rpx;
+	height: 40rpx;
+	vertical-align: middle;
+	margin-right: 20rpx;
+}
+.list-item>text.data-v-135d509f{
+	color: #333333;
+}
+

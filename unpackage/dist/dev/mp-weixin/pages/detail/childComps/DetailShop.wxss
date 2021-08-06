@@ -1,0 +1,61 @@
+
+.logo.data-v-032c13a9{
+	margin: 30rpx 20rpx;
+}
+.shop-img.data-v-032c13a9{
+	width: 105rpx;
+	height: 105rpx;
+	border-radius: 50%;
+	border: 3rpx solid rgb(228, 220, 220);
+	vertical-align: middle;  /* 使图片置于中间位置*/
+	margin-right: 30rpx;
+}
+/* 商家具体信息 */
+.all-info.data-v-032c13a9{
+	display: -webkit-box;
+	display: -webkit-flex;
+	display: flex;
+	-webkit-justify-content: space-around;
+	        justify-content: space-around;
+}
+.sell-count.data-v-032c13a9,.all-goods.data-v-032c13a9{
+	text-align: center;
+}
+.cSells.data-v-032c13a9,.cGoods.data-v-032c13a9{
+	margin: 10rpx 0 20rpx 0;
+}
+.score-dec.data-v-032c13a9{
+	margin-bottom: 8rpx;
+}
+.score-dec>text.data-v-032c13a9{
+	display: inline-block;
+}
+.score-dec>.name.data-v-032c13a9{
+	margin-right: 15rpx;
+}
+.show-score.data-v-032c13a9{
+	margin-bottom: 8rpx;
+}
+.low-score.data-v-032c13a9{
+	color: white;
+	background-color: yellowgreen;
+	padding: 3rpx;
+}
+.hight-score.data-v-032c13a9{
+	color: white;
+	background-color:#ff8198;
+	padding: 3rpx;
+}
+.score-color.data-v-032c13a9{
+	color: yellowgreen;
+}
+.acive.data-v-032c13a9{
+	color:#ff8198;
+}
+.btn.data-v-032c13a9{
+	margin-top: 30rpx;
+	text-align: center;
+	padding-bottom: 30rpx;
+	box-shadow: 0 5px 3px rgba(100,100,100,0.08);
+}
+

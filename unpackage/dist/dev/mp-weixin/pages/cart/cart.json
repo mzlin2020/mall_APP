@@ -1,0 +1,11 @@
+{
+  "navigationBarTitleText": "购物车",
+  "usingComponents": {
+    "cart-bottom-bar": "/pages/cart/childComps/CartBottomBar",
+    "check-button": "/pages/cart/childComps/CheckButton",
+    "cart-nothing": "/pages/cart/childComps/CartNothing",
+    "detail-goods-list": "/pages/detail/childComps/DetailGoodsList",
+    "cart-manage-btn": "/pages/cart/childComps/CartManageBtn",
+    "cart-manage": "/pages/cart/childComps/CartManage"
+  }
+}

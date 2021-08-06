@@ -1,0 +1,31 @@
+
+.recommend.data-v-89064baa{
+	display: -webkit-box;
+	display: -webkit-flex;
+	display: flex;
+	-webkit-box-flex: 20%;
+	-webkit-flex: 20%;
+	        flex: 20%;
+	-webkit-justify-content: space-around;
+	        justify-content: space-around;	
+	text-align: center;
+	margin-top: 34rpx;
+	/* 解决微信小程序的swiper挡住recomend */
+
+	margin-top: 100rpx;
+
+	font-size: 32rpx;
+	color: #666;
+}
+.recommend-item.data-v-89064baa{
+	width: 170rpx;
+	height: 170rpx;
+}
+.recommendImg.data-v-89064baa{
+	width: 100%;
+	height: 100%;
+}
+.text.data-v-89064baa{
+	padding: 10rpx 0;
+}	
+

@@ -1,0 +1,33 @@
+
+.head>text.data-v-faec44fe{
+	font-size: 30rpx;
+	color: #fff;
+	background-color:#ff8198;
+	margin-left: 10rpx;
+}
+.showImg>image.data-v-faec44fe{
+	width: 750rpx;
+}
+.desc.data-v-faec44fe{
+	margin-top: 10rpx;
+	text-align: justify;
+}
+.content.data-v-faec44fe{
+	font-size: 26rpx;
+	margin: 20rpx;
+}
+.left-line.data-v-faec44fe,.right-line.data-v-faec44fe{
+	width: 150rpx;
+	height: 4rpx;
+}
+.left-line.data-v-faec44fe{
+	background-image: -webkit-linear-gradient(left, #ff5777, #ff8198);
+	background-image: linear-gradient(to right, #ff5777, #ff8198);
+}
+.right-line.data-v-faec44fe{
+	float: right;
+	margin-bottom: 20rpx;
+	background-image: -webkit-linear-gradient(left, #ff8198 , #ff5777);
+	background-image: linear-gradient(to right, #ff8198 , #ff5777);
+}
+

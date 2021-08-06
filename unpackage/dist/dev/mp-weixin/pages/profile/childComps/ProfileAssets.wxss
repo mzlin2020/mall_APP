@@ -1,0 +1,16 @@
+
+.profile-assets.data-v-5a7ba2c4{
+	display: -webkit-box;
+	display: -webkit-flex;
+	display: flex;
+	-webkit-justify-content: space-around;
+	        justify-content: space-around;	
+	text-align: center;
+	padding: 40rpx 0;
+	box-shadow: 0 14rpx 2rpx rgba(100,100,100,0.1);
+}
+.item-count.data-v-5a7ba2c4{
+	color:#ff5777;
+	padding: 0 4rpx 5rpx 4rpx;
+}
+

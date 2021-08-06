@@ -1,0 +1,1 @@
+<view class="profile"><profile-login vue-id="23b2e5ec-1" bind:__l="__l"></profile-login><profile-assets vue-id="23b2e5ec-2" bind:__l="__l"></profile-assets><profile-list vue-id="23b2e5ec-3" bind:__l="__l"></profile-list></view>

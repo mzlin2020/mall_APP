@@ -1,0 +1,20 @@
+
+.tab-control.data-v-e7bdc8ba{
+	display: -webkit-box;
+	display: -webkit-flex;
+	display: flex;
+	-webkit-justify-content: space-around;
+	        justify-content: space-around;
+	margin: 15rpx 0;
+	font-size: 32rpx;
+	text-align: center;
+}
+.tab-control-item.data-v-e7bdc8ba{
+	width: 100rpx;
+	padding-bottom: 12rpx;
+}
+.active.data-v-e7bdc8ba{
+	color:#ff5777;
+	border-bottom: 6rpx solid #ff5777;
+}
+

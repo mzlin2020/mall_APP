@@ -1,0 +1,1 @@
+<view class="manage-btn data-v-0c81e3f6"><text class="data-v-0c81e3f6">共0件商品</text><text data-event-opts="{{[['tap',[['changeInfo',['$event']]]]]}}" class="btn data-v-0c81e3f6" bindtap="__e">{{showInfo}}</text></view>

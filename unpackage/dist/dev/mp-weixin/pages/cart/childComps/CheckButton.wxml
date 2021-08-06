@@ -1,0 +1,1 @@
+<view class="{{['check-button data-v-5066c1ce',(isChecked)?'active':'']}}"><image src="../../../static/common/checkButton.png" mode class="data-v-5066c1ce"></image></view>

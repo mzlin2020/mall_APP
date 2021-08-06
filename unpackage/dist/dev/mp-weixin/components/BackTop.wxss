@@ -1,0 +1,12 @@
+
+.back-top>image.data-v-65227863{
+	width: 90rpx;
+	height: 90rpx;
+}
+.back-top.data-v-65227863{
+	position: fixed;
+	right: 10rpx;
+	bottom: 200rpx;
+	z-index: 99;
+}
+

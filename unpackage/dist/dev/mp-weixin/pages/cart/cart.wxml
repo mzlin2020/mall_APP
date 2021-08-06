@@ -1,0 +1,1 @@
+<view class="data-v-0f00adf4"><cart-nothing data-custom-hidden="{{!(isShow)}}" vue-id="1775f8c0-1" class="data-v-0f00adf4" bind:__l="__l"></cart-nothing><detail-goods-list data-custom-hidden="{{!(isShow)}}" vue-id="1775f8c0-2" goodsList="{{goodsList}}" class="data-v-0f00adf4" bind:__l="__l"></detail-goods-list></view>
